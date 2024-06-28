@@ -5,8 +5,7 @@
 #### ✨Olá! Eu sou um Engenheiro de Controle e Automação formado na UFRGS. 🚀Tenho uma grande paixão por pesquisa e inovação, novas tecnologias, e adoro aprender e compartilhar conhecimento com os outros.💻
 
 ## 📊 Status de GitHub 
-<img width="%" height="198" src="https://github-readme-stats.vercel.app/api?username=1Thec&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="CHRIS-POINTEUR243 github stats" />
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1Thec&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
   
 ## Habilidade
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
